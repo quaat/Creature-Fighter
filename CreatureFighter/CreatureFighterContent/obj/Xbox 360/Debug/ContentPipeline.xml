@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>svartkamp.jpg</Source>
+      <Name>svartkamp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Project\XNA\Olve\CreatureFighter\CreatureFighter\CreatureFighter\bin\Xbox 360\Debug\Content\svartkamp.xnb</Output>
+      <Time>2010-12-05T18:31:21.1524108+01:00</Time>
+    </Item>
+    <Item>
+      <Source>creaturefighter.wma</Source>
+      <Name>creaturefighter</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Project\XNA\Olve\CreatureFighter\CreatureFighter\CreatureFighter\bin\Xbox 360\Debug\Content\creaturefighter.xnb</Output>
+      <Extra>D:\Project\XNA\Olve\CreatureFighter\CreatureFighter\CreatureFighter\bin\Xbox 360\Debug\Content\creaturefighter.wma</Extra>
+      <Time>2010-12-05T17:54:45.2758138+01:00</Time>
+    </Item>
+    <Item>
+      <Source>scorefont.spritefont</Source>
+      <Name>scorefont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Project\XNA\Olve\CreatureFighter\CreatureFighter\CreatureFighter\bin\Xbox 360\Debug\Content\scorefont.xnb</Output>
+      <Time>2010-12-11T20:41:20.0703547+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Dog Bite-SoundBible.com-107030898.wav</Source>
+      <Name>bite</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Project\XNA\Olve\CreatureFighter\CreatureFighter\CreatureFighter\bin\Xbox 360\Debug\Content\bite.xnb</Output>
+      <Time>2010-12-11T20:53:39.2017675+01:00</Time>
+    </Item>
+    <Item>
+      <Source>greeny.png</Source>
+      <Name>greeny</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Project\XNA\Olve\CreatureFighter\CreatureFighter\CreatureFighter\bin\Xbox 360\Debug\Content\greeny.xnb</Output>
+      <Time>2011-01-30T14:29:09.6447934+01:00</Time>
+    </Item>
+    <Item>
+      <Source>drago.png</Source>
+      <Name>drago</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Project\XNA\Olve\CreatureFighter\CreatureFighter\CreatureFighter\bin\Xbox 360\Debug\Content\drago.xnb</Output>
+      <Time>2011-01-30T14:30:19.7128011+01:00</Time>
+    </Item>
+    <Item>
+      <Source>yoda.png</Source>
+      <Name>yoda</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Project\XNA\Olve\CreatureFighter\CreatureFighter\CreatureFighter\bin\Xbox 360\Debug\Content\yoda.xnb</Output>
+      <Time>2011-01-30T14:33:29.5086568+01:00</Time>
+    </Item>
+    <Item>
+      <Source>background1.png</Source>
+      <Name>background1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Project\XNA\Olve\CreatureFighter\CreatureFighter\CreatureFighter\bin\Xbox 360\Debug\Content\background1.xnb</Output>
+      <Time>2011-01-30T15:17:58.6593235+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tyrannusaurus.png</Source>
+      <Name>tyrannusaurus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Project\XNA\Olve\CreatureFighter\CreatureFighter\CreatureFighter\bin\Xbox 360\Debug\Content\tyrannusaurus.xnb</Output>
+      <Time>2011-01-30T15:36:16.790133+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Kalimba.mp3</Source>
+      <Name>Kalimba</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Project\XNA\Olve\CreatureFighter\CreatureFighter\CreatureFighter\bin\Xbox 360\Debug\Content\Kalimba.xnb</Output>
+      <Extra>D:\Project\XNA\Olve\CreatureFighter\CreatureFighter\CreatureFighter\bin\Xbox 360\Debug\Content\Kalimba.wma</Extra>
+      <Time>2011-01-30T15:06:36.5213074+01:00</Time>
+    </Item>
+    <Item>
+      <Source>teiting.png</Source>
+      <Name>teiting</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Project\XNA\Olve\CreatureFighter\CreatureFighter\CreatureFighter\bin\Xbox 360\Debug\Content\teiting.xnb</Output>
+      <Time>2011-01-30T15:44:48.5704051+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Xbox360</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>D:\Project\XNA\Olve\CreatureFighter\CreatureFighter\CreatureFighterContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Project\XNA\Olve\CreatureFighter\CreatureFighter\CreatureFighter\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Project\XNA\Olve\CreatureFighter\CreatureFighter\CreatureFighterContent\obj\Xbox 360\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Project\XNA\Olve\CreatureFighter\CreatureFighter\CreatureFighter\bin\Xbox 360\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-11-22T20:50:31.2887801+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
